@@ -30,6 +30,5 @@ public class SpringbootBackendApplication implements CommandLineRunner {
 		employee1.setEmailId("ms27kim@gmail.com");
 		employeeRepository.save(employee1);
 
-
 	}
 }
